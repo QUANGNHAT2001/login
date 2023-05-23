@@ -1,9 +1,9 @@
 <?php
 // Thiết lập thông tin kết nối đến database
 
-$servername = "database-1.c1n7y4fgwiyk.ap-southeast-1.rds.amazonaws.com";
+$servername = "nhat-lab7.c1n7y4fgwiyk.ap-southeast-1.rds.amazonaws.com";
 
-$username = "nhat";
+$username = "Nhat";
 $password = "12345678";
 $dbname = "myDB";
 // Tạo kết nối đến database
